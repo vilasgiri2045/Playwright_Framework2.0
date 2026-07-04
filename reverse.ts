@@ -11,3 +11,6 @@ function reverseNumber(num: number): number {
 }
 
 console.log(reverseNumber(12345));
+
+//test is number is reverse or not
+// what about you is it working
