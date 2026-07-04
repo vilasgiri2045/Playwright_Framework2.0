@@ -8,3 +8,7 @@ function isPalindrome(str: string): boolean {
 console.log(isPalindrome("madam"));
 
 console.log(isPalindrome("playwright"));
+
+
+// data is updated by vilas
+//this is palindrome string
