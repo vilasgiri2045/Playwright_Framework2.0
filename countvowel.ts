@@ -14,3 +14,4 @@ function countVowels(str: string): number {
 }
 
 console.log(countVowels("Automation"));
+//logic want to update with latest code

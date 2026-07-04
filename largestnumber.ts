@@ -12,4 +12,6 @@ function largest(arr: number[]): number {
     return max;
 }
 
-console.log(largest([10, 40, 20, 90, 15]));
+console.log(largest([10, 40, 10, 50, 15]));
+
+// in this code we are updating input data
